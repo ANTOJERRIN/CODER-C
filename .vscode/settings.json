@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "INTRO.C": "cpp",
+        "OPERATIONSRECORD.C": "cpp",
+        "RECORD-1A.C": "cpp",
+        "RECORD-1B.C": "cpp",
+        "LAB-1B.C": "cpp",
+        "LAB-1A.C": "cpp",
+        "LAB-1C.C": "cpp",
+        "LAB-1D.C": "cpp",
+        "LAB-2A.C": "cpp",
+        "LAB-2B.C": "cpp",
+        "LAB-3.C": "cpp",
+        "LAB-4.C": "cpp",
+        "LAB-5.C": "cpp",
+        "INTRO1.C": "cpp",
+        "operators.C": "cpp",
+        "LAB-6.C": "cpp",
+        "LAB-7.C": "cpp",
+        "CH-4.C": "cpp",
+        "CH-3.C": "cpp",
+        "unit-3.C": "cpp"
+    },
+    "C_Cpp.default.compilerPath": "C:/msys64/mingw64/bin/gcc.exe"
+}
